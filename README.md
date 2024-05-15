@@ -1,4 +1,6 @@
 # Superstore Data Analysis Report-Tableau
+![image](https://github.com/ShubhPathania/Data-Visualization-and-Analysis-Tableau/assets/149718190/948519ee-2e1d-489a-9cd5-5b1ef2f26578)
+
 
 **Overview:**
 
