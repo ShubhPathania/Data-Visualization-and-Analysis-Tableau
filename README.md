@@ -1,6 +1,9 @@
 # Superstore Data Analysis Report- Tableau
-![image](https://github.com/ShubhPathania/Data-Visualization-and-Analysis-Tableau/assets/149718190/948519ee-2e1d-489a-9cd5-5b1ef2f26578)
 
+<p align="center">
+  <img src="https://github.com/ShubhPathania/Data-Visualization-and-Analysis-Tableau/assets/149718190/948519ee-2e1d-489a-9cd5-5b1ef2f26578" height="120"/>
+<p/>
+  
 # Overview
 
 The Superstore Data Analysis Project is a comprehensive exploration of customer behavior, sales trends, and strategic opportunities within a fictional retail superstore chain. Through the analysis of extensive data spanning multiple regions and product categories, this project provides valuable insights into various aspects of the business.
